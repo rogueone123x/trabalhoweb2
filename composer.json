@@ -1,0 +1,19 @@
+{
+    "name": "qi/andre2.0",
+    "description": "web2",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Src\\": "src/",
+            "Model\\": "src/model/"
+        }
+    },
+    "authors": [
+        {
+            "name": "andre"
+        }
+    ],
+    "require": {}
+}
+
+
